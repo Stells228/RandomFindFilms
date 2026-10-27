@@ -1,0 +1,58 @@
+{
+  "movies": [
+    {
+      "title": "Пятница 13-е",
+      "year": 1980,
+      "director": "Шон С. Каннингем",
+      "genre": "Ужасы, слэшер",
+      "duration": 95,
+      "country": "США",
+      "poster": "poster_friday13"
+    },
+    {
+      "title": "Сияние",
+      "year": 1980,
+      "director": "Стэнли Кубрик",
+      "genre": "Ужасы, триллер",
+      "duration": 146,
+      "country": "США, Великобритания",
+      "poster": "poster_shining"
+    },
+    {
+      "title": "Пять ночей с Фредди",
+      "year": 2023,
+      "director": "Эмма Тамми",
+      "genre": "Ужасы, мистика",
+      "duration": 109,
+      "country": "США",
+      "poster": "poster_fnaf"
+    },
+    {
+      "title": "Slender Man",
+      "year": 2018,
+      "director": "Сильвен Уайт",
+      "genre": "Ужасы, мистика",
+      "duration": 93,
+      "country": "США",
+      "poster": "poster_slenderman"
+    },
+    {
+      "title": "Exit 8",
+      "year": 2025,
+      "director": "Гэнки Кавамура",
+      "genre": "Ужасы, мистика, триллер",
+      "duration": 95,
+      "country": "Япония",
+      "poster": "poster_exit8"
+    },
+    {
+      "title": "Кошмар на улице Вязов",
+      "year": 1984,
+      "director": "Уэс Крэйвен",
+      "genre": "Ужасы, слэшер",
+      "duration": 91,
+      "country": "США",
+      "poster": "poster_elm_street"
+    }
+  ]
+}

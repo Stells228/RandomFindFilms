@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random Films</string>
+
+    <string name="btn_random">Выбрать случайный фильм</string>
+    <string name="btn_finished">Фильмов больше нет</string>
+
+    <string name="info_format">Год: %1$d\nРежиссёр: %2$s\nЖанр: %3$s\nДлительность: %4$d мин\nСтрана: %5$s</string>
+
+    <string name="poster_description">Постер фильма</string>
+    <string name="ghost_description">Приведение</string>
+    <string name="no_more_movies">Фильмов больше нет</string>
+    <string name="error_load">Не удалось прочитать movies.json</string>
+</resources>
